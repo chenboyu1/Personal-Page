@@ -1,2 +1,2 @@
 # chenboyu1.github.io
-ee
+theme: Minima
