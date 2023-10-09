@@ -1,3 +1,5 @@
+<html>
+	<body>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   h2 {
@@ -25,7 +27,7 @@
 </style>
 
 <h2>歡迎來到我的Personal Page</h2>
-<main>
+
 	
 	<h1></h1>
 	<t1>自我介紹</t1>
@@ -49,4 +51,4 @@
 	<p class="red-text">我的ig <a href="https://www.instagram.com/chen_ber_365/?hl=zh-tw">點擊這裡</a>.</p>
 	<h1></h1>
 	<h1>Email: chenber930426@gmail.com</h1>
-</main>
+</body>
