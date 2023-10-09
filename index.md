@@ -23,7 +23,7 @@
 	}
 
   .smaller-image {
-    width: 50px;
+    width: 150px;
   }
 </style>
 
@@ -36,7 +36,7 @@
 	<h1>我是陳柏妤</h1>
 	<h1>就讀輔仁大學資工系二年級</h1>
 	
-	<a href="#"><img src="https://www.linkpicture.com/q/B1AED73C-115B-4E16-8BA3-7C3DF5C4419B.jpg"></a>
+	<a href="#"><img class="smaller-image" src="https://www.linkpicture.com/q/B1AED73C-115B-4E16-8BA3-7C3DF5C4419B.jpg"></a>
 	
   <div>
     <p>我的三個興趣:</p>
