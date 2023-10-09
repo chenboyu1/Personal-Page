@@ -23,7 +23,7 @@
 	}
 
   .smaller-image {
-    width: 150px;
+    width: 50px;
   }
 </style>
 
