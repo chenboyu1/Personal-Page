@@ -4,6 +4,7 @@
 <style>
   h2 {
     font-family: Lobster, monospace;
+	font-size: 35px;
   }
 
   p {
