@@ -1,2 +1,2 @@
 # chenboyu1.github.io
-theme: Minima
+theme: jekyll-theme-minimal
