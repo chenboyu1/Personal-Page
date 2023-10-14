@@ -1,5 +1,10 @@
 # chenboyu1.github.io
-theme: jekyll-theme-minimal
+<script>
+  $(document).ready(function() {
+	$("body").addClass("animated fadeout");
+  });
+</script>
+
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   h2 {
