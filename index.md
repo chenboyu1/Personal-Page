@@ -16,8 +16,8 @@
   </script>
 </head>
 <body>
-  <h1>動態內容示範</h1>
-  <button id="loadContentButton">載入內容</button>
+  <h1>一些照片</h1>
+  <button id="loadContentButton">請點擊觀看</button>
   <div id="dynamicContentContainer">
     <!-- 這裡將動態插入的內容顯示 -->
   </div>
