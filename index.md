@@ -1,3 +1,29 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>動態內容示範</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $("#loadContentButton").click(function() {
+        // 使用$.get方法載入內容
+        $.get("dynamic-content.txt", function(data) {
+          // 插入內容到容器
+          $("#dynamicContentContainer").html(data);
+        });
+      });
+    });
+  </script>
+</head>
+<body>
+  <h1>動態內容示範</h1>
+  <button id="loadContentButton">載入內容</button>
+  <div id="dynamicContentContainer">
+    <!-- 這裡將動態插入的內容顯示 -->
+  </div>
+</body>
+</html>
+
 <html>
 	<body>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
