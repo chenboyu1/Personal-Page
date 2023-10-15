@@ -14,17 +14,9 @@
     });
   </script>
 </head>
-<body>
-  <h1>一些照片</h1>
-  <button id="loadContentButton">請點擊觀看</button>
-  <div id="dynamicContentContainer">
-    <!-- 這裡將動態插入的內容顯示 -->
-  </div>
-</body>
-</html>
 
-<html>
-	<body>
+
+<body>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   h2 {
@@ -53,7 +45,11 @@
 </style>
 
 <h2>歡迎來到我的Personal Page</h2>
-
+	<h1>一些照片</h1>
+  <button id="loadContentButton">請點擊觀看</button>
+  <div id="dynamicContentContainer">
+    <!-- 這裡將動態插入的內容顯示 -->
+  </div>
 	
 	<h1></h1>
 	<t1>自我介紹</t1>
